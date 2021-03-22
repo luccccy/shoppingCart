@@ -1,0 +1,41 @@
+body {
+
+    background-image: url("../images/background.jpeg");
+}
+form {
+    width: 400px;
+    margin: 200px auto;
+}
+div {
+    width: 100%;
+    margin: 15px auto;
+}
+input {
+    width: 96%;
+    padding: 10px;
+    border:1px solid #797979;
+    font-size: 20px;
+    margin-left: auto;
+    border-radius: 3px;
+}
+button{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border: 1px;
+    padding: 10px;
+    outline:none;
+    cursor:pointer;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: whitesmoke;
+    background: linear-gradient(90deg, royalblue, lightgreen);
+}
+span {
+    display: block;
+    margin-left: auto;
+    color: red;
+    font-style：italic;
+}
+
